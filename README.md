@@ -3,7 +3,7 @@
 Chapter one  Day one
  question one,  Explain what the Blockchain is in your own words.
  
- Answer,   A blockchain is open to the public, it is a place to store data, anyone can build on it, no one owns or controls it.
+ A blockchain is open to the public, it is a place to store data, anyone can build on it, no one owns or controls it.
  
  
  question two,  Explain what a Smart Contract is. 
